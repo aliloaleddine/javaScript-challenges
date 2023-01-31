@@ -24,4 +24,4 @@ console.log(
         ].toLocaleUpperCase()
     )
 ); //"rO"
-// console.log("----------------");
+console.log("----------------");
